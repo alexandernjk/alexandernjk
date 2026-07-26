@@ -5,4 +5,48 @@ With over 4 years of experience in hardware design and electronics, I'm on a mis
 - 🔭 I’m currently working on an Ai Powered Lazar Bug Zapper
 - 🌱 I’m currently learning Analog/Digital Electronics, Ai Vision, Machine Learning, HTML, CSS, and Docker 
 - 💬 Ask me about Robtics, AI, Old Electronics, and Youtube
-- ⚡ Fun fact: For about 10 minutes I was an all American Hurdler 
+- ⚡ Fun fact: For about 10 minutes I was an all American Hurdler
+
+
+### Languages and Tools:
+
+<table>
+  <tbody>
+    <tr>
+      <td align="left">Languages:</td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,c,go,java,r,matlab&theme=dark" alt="Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Database:</td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Databases" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">DevOps:</td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi&theme=dark" alt="DevOps" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Version Control:</td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=git,github,cmake&theme=dark" alt="Version Control" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Ides:</td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=vscode,clion,idea&theme=dark" alt="IDEs" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Operating Systems:</td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux&theme=dark" alt="Operating Systems" />
+      </td>
+    </tr>
+  </tbody>
+</table>
