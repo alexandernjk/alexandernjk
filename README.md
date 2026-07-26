@@ -15,7 +15,7 @@ With over 4 years of experience in hardware design and electronics, I'm on a mis
     <tr>
       <td align="left">Languages:</td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=C,C++,Verilog,VHDL,java,Python,matlab&theme=dark" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,verilog,java,python,html,css,matlab&theme=dark" alt="Languages" />
       </td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ With over 4 years of experience in hardware design and electronics, I'm on a mis
     <tr>
       <td align="left">Operating Systems:</td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,apple&theme=dark" alt="Operating Systems" />
+        <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux&theme=dark" alt="Operating Systems" />
       </td>
     </tr>
   </tbody>
