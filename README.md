@@ -18,6 +18,12 @@ With over 4 years of experience in hardware design and electronics, I'm on a mis
         <img src="https://skillicons.dev/icons?i=c,cpp,verilog,java,python,html,css,matlab&theme=dark" alt="Languages" />
       </td>
     </tr>
+        <tr>
+      <td align="left">Hardware:</td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=Pspice,LTpsice,ModelSim&theme=dark" alt="Languages" />
+      </td>
+    </tr>
     <tr>
       <td align="left">Database:</td>
       <td align="left">
