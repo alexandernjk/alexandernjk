@@ -27,7 +27,7 @@ With over 4 years of experience in hardware design and electronics, I'm on a mis
     <tr>
       <td align="left">DevOps:</td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi&theme=dark" alt="DevOps" />
+        <img src="https://skillicons.dev/icons?i=docker,aws,azure,fastapi&theme=dark" alt="DevOps" />
       </td>
     </tr>
     <tr>
