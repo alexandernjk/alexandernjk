@@ -22,10 +22,15 @@ With over 4 years of experience in hardware design and electronics, I'm on a mis
       <td align="left">Hardware:</td>
       <td align="left">
         <img src="./assets/KiCad.png" width="48" height="48" alt="KiCad" style="margin-right: 5px;" />
+        &nbsp;
         <img src="./assets/Cadence.png" width="48" height="48" alt="PSpice" style="margin-right: 5px;" />
+        &nbsp;
         <img src="./assets/LTSpice.png" width="48" height="48" alt="LTspice" style="margin-right: 5px;" />
+        &nbsp;
         <img src="./assets/ModelSim.png" width="48" height="48" alt="ModelSim" style="margin-right: 5px;" />
+        &nbsp;
         <img src="./assets/Quartus.png" width="48" height="48" alt="Quartus" style="margin-right: 5px;" />
+        &nbsp;
         <img src="./assets/SolidWorks.png" width="48" height="48" alt="Solidworks" />
       </td>
     </tr>
