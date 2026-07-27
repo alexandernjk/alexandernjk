@@ -53,7 +53,7 @@ With over 4 years of experience in hardware design and electronics, I'm on a mis
       </td>
     </tr>
     <tr>
-      <td align="left">Ides:</td>
+      <td align="left">IDE:</td>
       <td align="left">
         <img src="https://skillicons.dev/icons?i=vscode,clion,idea&theme=dark" alt="IDEs" />
       </td>
