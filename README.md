@@ -21,12 +21,12 @@ With over 4 years of experience in hardware design and electronics, I'm on a mis
 <tr>
       <td align="left">Hardware:</td>
       <td align="left">
-        <img src="./assets/KiCad.png" width="40" height="40" alt="KiCad" style="margin-right: 5px;" />
-        <img src="./assets/Cadence.png" width="40" height="40" alt="PSpice" style="margin-right: 5px;" />
-        <img src="./assets/LTSpice.png" width="40" height="40" alt="LTspice" style="margin-right: 5px;" />
-        <img src="./assets/ModelSim.png" width="40" height="40" alt="ModelSim" style="margin-right: 5px;" />
-        <img src="./assets/Quartus.png" width="40" height="40" alt="Quartus" style="margin-right: 5px;" />
-        <img src="./assets/SolidWorks.png" width="40" height="40" alt="Solidworks" />
+        <img src="./assets/KiCad.png" width="48" height="48" alt="KiCad" style="margin-right: 5px;" />
+        <img src="./assets/Cadence.png" width="48" height="48" alt="PSpice" style="margin-right: 5px;" />
+        <img src="./assets/LTSpice.png" width="48" height="48" alt="LTspice" style="margin-right: 5px;" />
+        <img src="./assets/ModelSim.png" width="48" height="48" alt="ModelSim" style="margin-right: 5px;" />
+        <img src="./assets/Quartus.png" width="48" height="48" alt="Quartus" style="margin-right: 5px;" />
+        <img src="./assets/SolidWorks.png" width="48" height="48" alt="Solidworks" />
       </td>
     </tr>
     <tr>
