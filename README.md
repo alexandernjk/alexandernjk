@@ -18,10 +18,15 @@ With over 4 years of experience in hardware design and electronics, I'm on a mis
         <img src="https://skillicons.dev/icons?i=c,cpp,verilog,java,python,html,css,matlab&theme=dark" alt="Languages" />
       </td>
     </tr>
-        <tr>
+<tr>
       <td align="left">Hardware:</td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=KiCad,Pspice,LTpsice,ModelSim,Quartus,Solidworks&theme=dark" alt="Languages" />
+        <img src="./assets/kicad.png" width="40" height="40" alt="KiCad" style="margin-right: 5px;" />
+        <img src="./assets/pspice.png" width="40" height="40" alt="PSpice" style="margin-right: 5px;" />
+        <img src="./assets/ltspice.png" width="40" height="40" alt="LTspice" style="margin-right: 5px;" />
+        <img src="./assets/modelsim.png" width="40" height="40" alt="ModelSim" style="margin-right: 5px;" />
+        <img src="./assets/quartus.png" width="40" height="40" alt="Quartus" style="margin-right: 5px;" />
+        <img src="./assets/solidworks.png" width="40" height="40" alt="Solidworks" />
       </td>
     </tr>
     <tr>
