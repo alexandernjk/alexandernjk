@@ -61,7 +61,7 @@ With over 4 years of experience in hardware design and electronics, I'm on a mis
     <tr>
       <td align="left">Operating Systems:</td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,linux&theme=dark" alt="Operating Systems" />
+        <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,linux,bash&theme=dark" alt="Operating Systems" />
       </td>
     </tr>
   </tbody>
